@@ -1,0 +1,4 @@
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\bin\Release\mssqlhelper.dll
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\bin\Release\mssqlhelper.pdb
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\obj\Release\mssqlhelper.dll
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\obj\Release\mssqlhelper.pdb

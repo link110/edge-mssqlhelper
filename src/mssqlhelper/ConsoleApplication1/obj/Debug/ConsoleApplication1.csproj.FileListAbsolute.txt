@@ -1,0 +1,8 @@
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Debug\mssqlhelper.dll
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Debug\mssqlhelper.pdb
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

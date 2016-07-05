@@ -1,0 +1,5 @@
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\bin\Debug\mssqlhelper.dll
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\bin\Debug\mssqlhelper.pdb
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\obj\Debug\mssqlhelper.csprojResolveAssemblyReference.cache
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\obj\Debug\mssqlhelper.dll
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\mssqlhelper\obj\Debug\mssqlhelper.pdb

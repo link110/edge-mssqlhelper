@@ -1,0 +1,1 @@
+c:\users\link-luo\documents\visual studio 2015\Projects\mssqlhelper\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
